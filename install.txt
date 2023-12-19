@@ -1,0 +1,3 @@
+pyinstaller --onefile --icon=icone.ico --target-arch=32bit netflix.pyw
+
+
